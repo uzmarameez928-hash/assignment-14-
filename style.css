@@ -1,0 +1,234 @@
+body{
+    overflow-x:hidden ;
+}
+.malai{
+    font-family:"Slackey", sans-serif;
+}
+.malai:hover{
+    color: white;
+}
+
+.ice:hover{
+    color: cornflowerblue;
+}
+
+.head{
+    background-color: rgb(212, 66, 90);
+}
+ 
+.cone{
+    position: relative;
+    right: -570px;
+    height: 600px;
+}
+
+h1{
+    color:white;
+    font-size: 166px;
+    text-align: center;
+    font-family: "Nabla";
+    position: relative;
+    top:-350px;
+}
+
+.img{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.color{
+    border: 2px solid white;
+    transition: all 3s;
+   }
+
+.color:hover{
+    border:7px solid teal;
+    transform: scale(1.1);
+     background-color: rgb(224, 106, 126);
+}
+
+.six{
+    position:relative;
+    top: -900px;
+    left: 80px;
+}
+
+.above{
+    border: 10px solid orange;
+    background-color:cadetblue;
+}
+.above:hover{
+    border:12px solid rgb(240, 67, 240);
+    background-color: rgb(159, 175, 204);
+}
+
+.heading{
+    color: black;
+    font-size: 33px;
+    font-family: slackey;
+    position: relative;
+    top: 5px;
+    left: -60px;
+}
+
+.three{
+    position: relative;
+    top: -700px;
+    left: 90px;
+}
+
+.lower{
+    border: 10px solid green;
+    background-color:coral ;
+}
+.lower:hover{
+    border: 12px solid rgb(157, 233, 225);
+    background-color: palevioletred;
+}
+
+.baloch{
+    font-size: 40px;
+    color: rgb(231, 24, 93);
+    font-family: slackey;
+}
+
+.order:hover{
+    background-color: palevioletred;
+    color: white;
+    cursor: pointer;
+}
+
+.speciality{
+    position: relative;
+    top: -250px;
+    padding: 40px;
+
+}
+
+.btn{
+    position: relative;
+    top: -450px;
+    width: 160px;
+    }
+.btn:hover{
+    background-color: coral;
+    color: crimson;
+}
+
+.para{
+    position: relative;
+    top:-150px ;
+}
+
+.pic{
+    color: purple;
+    font-size: 40px;
+    transition: all 2s;
+}
+.pic:hover{
+    transform: scale(1.1);
+}
+
+
+.cherry{
+   transition: all 2s;
+
+}
+ 
+.cherry:hover{
+  transform: scale(1.1);
+  }
+
+.team{
+    position: relative;
+    top: -60px;
+    color: white;
+    font-size: 50px;
+}
+.name:hover{
+    color: yellow;
+}
+
+.pre{
+    transition: all 2s;
+    border:5px solid palegreen;
+
+}
+
+.pre:hover{
+    transform: scale(1.1);
+    border: 5px solid salmon;
+}
+
+.special{
+    font-size: 70px;
+    font-family: slackey;
+    color: brown;
+    transition: all 3s;
+}
+.special:hover{
+    transform: scale(1.1);
+    color: purple;
+}
+
+.sp{
+    position: relative;
+    top: -320px;
+    left: 60px;
+    color:black;
+}
+.bt{
+    position: relative;
+    top: -300px;
+    left: 65px;
+    color: chartreuse;
+}
+.bto:hover{
+    background-color: brown;
+}
+.bto{
+     position: relative;
+    top: -300px;
+    left: 65px;
+    color: darkturquoise;
+}
+.back{
+    background-image: url(./images/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.yum{
+    transition: all 3s;
+}
+.yum:hover{
+    transform: scale(1.1);
+}
+.feature{
+    background-image: url(./images/last\ back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.clr{
+    color: rgb(196, 31, 58);
+    font-size: 30px;
+    transition: all 3s;
+}
+.clr:hover{
+    transform: scale(1.1);
+}
+.my{
+    color: chocolate;
+    font-family: slackey;
+    font-size: 50px;
+    position: relative;
+    top: -10px;
+}
+.my:hover{
+    color: chartreuse;
+}
+
+.click:hover{
+    background-color: blue;
+    color: chartreuse;
+}
